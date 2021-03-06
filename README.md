@@ -36,6 +36,8 @@ This is another model of repository
      - Django
     * **Adding Images Into Markdown**
     <img src="https://resultsnew.com/wp-content/uploads/2018/03/CBIT-VBIT-Proddatur-Admissions.jpg">
+    
     * Hyperlinks
+    
       [APSSDC](https://www.apssdc.in/home/)
-      [CBIT](shorturl.at/hquC3)
+      [CBIT](http://cbit.edu.in/)
